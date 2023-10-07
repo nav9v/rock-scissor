@@ -39,9 +39,3 @@ print(result)
 
 # choices = {"player": "rock", "computer": "paper"}
 # p_choices = choices["computer"]
-
-
-
-
-
-   
